@@ -1,0 +1,14 @@
+{
+    "name": "Romitor",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "description": "Romitor é uma extensão para o Owlbear Rodeo que permite monitorar as salas em que você joga.",
+    "author": "Lucas-BRT",
+    "action": {
+        "title": "Romitor",
+        "popover": "/",
+        "icon": "/icon.svg",
+        "width": 340,
+        "height": 440
+    }
+}
